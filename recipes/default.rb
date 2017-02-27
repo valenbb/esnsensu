@@ -12,4 +12,3 @@ include_recipe 'sensu::redis'
 include_recipe 'sensu::rabbit'
 
 include_recipe 'esnsensu::sensu'
-
