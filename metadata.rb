@@ -4,7 +4,7 @@ maintainer_email 'valenbb@gmail.com'
 license 'all_rights'
 description 'Installs/Configures esnsensu'
 long_description 'Installs/Configures esnsensu'
-version '0.1.0'
+version '0.1.2'
 
 depends 'esnbootstrap', '>=0.1.1'
 depends 'sensu', '>=2.12.0'
