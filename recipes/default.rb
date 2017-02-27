@@ -9,6 +9,6 @@ include_recipe 'esnbootstrap::default'
 
 include_recipe 'sensu::redis'
 
-include_recipe 'sensu::rabbit'
+include_recipe 'sensu::rabbitmq'
 
 include_recipe 'esnsensu::sensu'
